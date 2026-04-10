@@ -24,9 +24,6 @@ function Home() {
                 
 
             }
-          
-
-
             detstudent(data)
         },[]
     );
